@@ -25,4 +25,9 @@
 
 - 타임리프 문법 오류
 - th:onclick 변수 오류
-- c:set의 대체제
+- c:set의 대체재
+
+### Day 06
+
+- c:set의 대체재
+  - with를 사용해서 중복제거 controller에서 for문을 이용해 rowspan 전달
