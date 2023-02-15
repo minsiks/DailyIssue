@@ -31,3 +31,7 @@
 
 - c:set의 대체재
   - with를 사용해서 중복제거 controller에서 for문을 이용해 rowspan 전달
+
+### Day 07
+
+- th:text 내부 태그 삭제
