@@ -29,8 +29,6 @@
 - popup창에서 swal 안뜸
   - controller 작성 오류 해결
 
-
-
 > 해결못한 문제 : 
 >
 > 1. 엑셀 다운로드 : JSP에서도 기능 X  
@@ -53,4 +51,4 @@
 >
 > 4. paging count 18일때 1/1 26일때 1/2 
 >
-> 5. admin-common-file, admin-popup의 정체
+> 5. admin-common-file, admin-popup, product - productCategory의 정체
