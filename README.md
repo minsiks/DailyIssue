@@ -65,3 +65,9 @@
 ### Day 02
 
 - 변수명 수정
+
+### Day 03
+
+- 변수명 수정
+
+- AvoidThrowingRawExceptionTypes
