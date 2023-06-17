@@ -70,4 +70,4 @@
 
 - 변수명 수정
 
-- AvoidThrowingRawExceptionTypes
+- AvoidThrowingRawExceptionTypes 
