@@ -71,3 +71,17 @@
 - 변수명 수정
 
 - AvoidThrowingRawExceptionTypes 
+
+## Oracle on Azure
+
+### Day 01
+
+-  Max_String 사이즈 변경
+
+### Day 02
+
+- 스크립트 오류 발생시 장업 중단 후 종료
+
+### Day 03
+
+- "ORA-00904: "PLS_DECRYPT_B64_ID": 부적합한 식별자
