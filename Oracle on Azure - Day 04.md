@@ -8,3 +8,8 @@
 ```
 
 dbca -silent \    -createDatabase \    -templateName General_Purpose.dbc \    -gdbname oratest \    -sid oratest \    -responseFile NO_VALUE \    -characterSet AL32UTF8 \    -sysPassword OraPasswd1 \    -systemPassword OraPasswd1 \    -createAsContainerDatabase false \    -databaseType MULTIPURPOSE \    -automaticMemoryManagement false \    -storageType FS \    -datafileDestination "/u02/oradata/" \    -ignorePreReqs
+
+- 오류나는 행
+- 79,333 , 79,327 , 69,477 , 
+
+TR_TEMPLOYEE_SSEMPC
