@@ -13,7 +13,7 @@
 
 - 환불정보
 
-spinner 
+
 네브바 캐로셀
 기존 amb_ui_common 사용 안해도 되는지
 
