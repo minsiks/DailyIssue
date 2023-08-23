@@ -4,7 +4,7 @@
 
 https://whiseung.tistory.com/entry/Azure-Oracle-Database19c-%EC%83%9D%EC%84%B1-%ED%9B%84-Azure-Data-FactoryADF-%EC%97%B0%EA%B2%B0
 
-### Max_String 사이즈 변경하기 
+### Max_String 사이즈 변경하기 (추측컨데 수신기를 닫아놓고 하는게 맞는 듯)
 
 The error message you received indicates that the ORACLE instance terminated due to a fatal error. Additionally, it mentions that the MAX_STRING_SIZE migration is incomplete.
 
@@ -32,6 +32,7 @@ To resolve this issue, you can follow these steps:
 
    ```
    sqlCopy code
+   @?/rdbms/admin/utl32k.sql
    @?/rdbms/admin/utl32k.sql
    ```
 
