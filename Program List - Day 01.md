@@ -10,4 +10,4 @@
     - /* BizProgramSection_SQL.xml BizProgramSectionDAO.selectBizProgramSectionListProgram14 */
 
 - 최대 3000줄
-- 1개씩쓰는것도 다행히 이씅ㅁ
+- 1개씩쓰는것도 다행히 이
