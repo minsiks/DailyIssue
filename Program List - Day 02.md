@@ -7,6 +7,3 @@
 - 조회 불가능하다보니 승인 테스트 못함
 - 승인이나 그외 공통 팝업 또는 코드는 해당 컨트롤러에 옮겨야 하는가?
 
-/manage/healthhome/consultation/selectConsultGeneralList.do
-
-/manage/healthhome/consultation/selectConsultGeneral.do
