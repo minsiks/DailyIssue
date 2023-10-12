@@ -10,3 +10,12 @@
 
   - 상담기간 change 함수 안바뀜
 
+- 회기별 정보
+  - 공통 상담자 추가 팝업은 어디에 위치해야 하는지
+    - 팝업 보류 
+    - kihfis.com.cmm.popup.web PopupController
+      - tintervieweePopupSelectName
+
+- 상담관리 (건강가정)
+  - 상단 다문화 건강가정 라디어버튼 크기 다름
+    - 원인 : IBSHEET들어오면 크기 바뀜
