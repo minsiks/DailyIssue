@@ -12,6 +12,7 @@
   - 기본 등록
     - "/single/bm/sm/healthProgramBasisList_A.do"이게 뭔
     - 신청자가 없어서 등록을 할 수 없
+  - 타일즈 ajaxResult 사용 못
 
 ```완료리스트
 완료리스트
@@ -22,5 +23,11 @@
 - 
 ```
 
+### 연간사업계획서관리
 
+- 다문화 신규 등록 DECIDE_REQUEST_NO 퍼링키 문제
 
+  - ![2023-10-18 16 32 18](C:\Users\min\Documents\DailyIssue\assets\2023-10-18 16 32 18.png)
+
+  - 새로 인서트문인데 DECIDE_REQUEST_NO를 참조하고 있어 무결성 오류
+  - kihfis.com.cmm.service.impl.CommonServiceImpl 참고
