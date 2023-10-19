@@ -16,10 +16,7 @@
 
 ```완료리스트
 완료리스트
-- BB_BM_BA_027_1_pop1
-- BB_BM_BA_027_1_pop1-1
-- BB_BM_BA_027_1_pop1-4
-- BB_BM_BA_027_1_pop1-5
+- 연간사업계획서관리
 - 
 ```
 
@@ -31,3 +28,6 @@
 
   - 새로 인서트문인데 DECIDE_REQUEST_NO를 참조하고 있어 무결성 오류
   - kihfis.com.cmm.service.impl.CommonServiceImpl 참고
+
+- 건강가정 common list 약간 위에 여백 어떻게?
+
