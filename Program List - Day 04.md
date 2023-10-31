@@ -6,14 +6,15 @@
 
 ```완료리스트
 문제 사항
->사업관리>사업계획>세부사업계획서관리>다문화>리스트에서 보류/결쟈
+1----------------------
+기본사업 > 사업관리> 사업계획>세부사업계획서관리>다문화>리스트에서 보류/결쟈
 - mcultProgramService.withrawListMcultProgra
 - mcultProgramService.approvalList
 상응하는 sql문 없음
-```
-
-```
-
+2-------------------------
+기본사업> 사업관리 > 사업실적관리 > 패밀리넷 등록 
+- SEQ_TFAMILYNET_PROGRAM.NEXTVAL 시퀀스 DB에 존재하지 않음
+- 그전에는 되었었던듯
 ```
 
 ```
