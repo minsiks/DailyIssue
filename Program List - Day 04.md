@@ -12,7 +12,7 @@
 - mcultProgramService.approvalList
 상응하는 sql문 없음
 2-------------------------
-기본사업> 사업관리 > 사업실적관리 > 패밀리넷 등록 
+기본사업> 사업관리 > 사업실적관리 > 패밀리넷 등록/수정
 - SEQ_TFAMILYNET_PROGRAM.NEXTVAL 시퀀스 DB에 존재하지 않음
 - 그전에는 되었었던듯
 ```
@@ -26,8 +26,5 @@
 Type:"Html",입력 안되는 경우 많음 defaultvalue 사용 금함
 
 파일삭제 추가?
-
-
-
 
 
