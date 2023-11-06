@@ -11,13 +11,16 @@
 - mcultProgramService.withrawListMcultProgra
 - mcultProgramService.approvalList
 상응하는 sql문 없음
+
 2-------------------------
 기본사업> 사업관리 > 사업실적관리 > 패밀리넷 등록/수정
 - SEQ_TFAMILYNET_PROGRAM.NEXTVAL 시퀀스 DB에 존재하지 않음
 - 그전에는 되었었던듯
+
 3----------------
 기본사업> 사업관리 > 실적관리 > 사업실적관리(건강가정)
 - ibsheet 밑에 2행 클릭 안됨
+
 4----------------------
 기본사업> 사업관리 > 사업계획 > 세부사업계획서관리(건강가정) > 공간운영 탭
 - ibsheet 아예 클릭안됌
@@ -26,6 +29,12 @@
 - 스크립트에 멀티셀렉이 너무 많아서 그런지 성능때문인지 의심
 기본사업> 사업관리 > 사업계획 > 세부사업계획서관리(건강가정) > 회의
 - 기존 기능 없음
+
+5------------
+기본사업> 사업관리 > 사업운영 > 반(모임)/프로그램 관리
+- 가족, 홍보,방문 프로그램 셀렉 옵션 안뜸
+- 기존 페이지와 동일한 param과 동일한 경로로 데이터를 보내도 쿼리에서 안뽑아짐
+- ex)/* McultProgram_SQL.xml McultProgram14DAO.selectMcultProgramListCommon_doublelang */
 ```
 
 ```
