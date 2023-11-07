@@ -43,7 +43,9 @@
 
 ```
 
-Type:"Html",입력 안되는 경우 많음 defaultvalue 사용 금함
+```메모
+메모
+- seperator 라이브러리
 
-파일삭제 추가?
+```
 
