@@ -4,7 +4,7 @@
 
 
 
-```완료리스트
+```
 문제 사항
 1----------------------
 기본사업 > 사업관리> 사업계획>세부사업계획서관리>다문화>리스트에서 보류/결쟈
@@ -35,6 +35,10 @@
 - 가족, 홍보,방문 프로그램 셀렉 옵션 안뜸
 - 기존 페이지와 동일한 param과 동일한 경로로 데이터를 보내도 쿼리에서 안뽑아짐
 - ex)/* McultProgram_SQL.xml McultProgram14DAO.selectMcultProgramListCommon_doublelang */
+
+6-------------
+별도사업 > 가족희망드림지원사업 > (취약위기)사례관리 > 초기상담
+신규 성명 /restApi/selectCaseFamilyMember.do 동작안됨
 ```
 
 ```
