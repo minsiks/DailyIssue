@@ -28,8 +28,11 @@
 별도사업 > 가족희망드림지원사업 > (취약위기)사례관리 > 초기상담
 신규 성명 /restApi/selectCaseFamilyMember.do 동작안됨
 
-7---------
-실적관리 / 사업실적관리 대규모사업 선택 body위로 쏠림
+7-----------------
+기본사업 > 사업실적관리 >실적관리 > 사업실적관리 > 
+프로그램 등록 -패밀리넷
+SELECT SEQ_TFAMILYNET_PROGRAM.NEXTVAL FROM DUAL
+시퀀스 없다고 나옴
 ```
 
 ```
