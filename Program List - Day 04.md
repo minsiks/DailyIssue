@@ -1,9 +1,5 @@
 # 23-10-16 Program List- Day 04
 
-## BB_BM_CA_021_1
-
-
-
 ```
 문제 사항
 1----------------------
@@ -11,6 +7,8 @@
 - mcultProgramService.withrawListMcultProgra
 - mcultProgramService.approvalList
 상응하는 sql문 없음
+
+>> 오류 검출 안됨
 
 2-------------------------
 기본사업> 사업관리 > 사업실적관리 > 패밀리넷 등록/수정
@@ -24,21 +22,22 @@
 - 기존 페이지와 동일한 param과 동일한 경로로 데이터를 보내도 쿼리에서 안뽑아짐
 - ex)/* McultProgram_SQL.xml McultProgram14DAO.selectMcultProgramListCommon_doublelang */
 
+>>>>>>>>>>>>> 년도를 바꾸니 정상 작동 (데이터 부재)
+
 6-------------
 별도사업 > 가족희망드림지원사업 > (취약위기)사례관리 > 초기상담
-신규 성명 /restApi/selectCaseFamilyMember.do 동작안됨
+신규 성명 /restApi/selectCaseFamilyMember.do 동작안됨 
 
-7-----------------
-기본사업 > 사업실적관리 >실적관리 > 사업실적관리 > 
-프로그램 등록 -패밀리넷
-SELECT SEQ_TFAMILYNET_PROGRAM.NEXTVAL FROM DUAL
-시퀀스 없다고 나옴
+>>>>>> 서버 올라간것 해결 확인
+
+
 ```
 
 ```
 원래도 안되는항목
 - 상담관리(일반)>건강가정>내담자 등록 후 수정 
-
+- 실적관리 > 사업실적관리 > 가족서비스/기본 
+	*종료된 프로그램 출석 클릭시 error 페이지
 ```
 
 ```메모
