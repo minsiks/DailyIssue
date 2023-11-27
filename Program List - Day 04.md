@@ -14,7 +14,7 @@
 기본사업> 사업관리 > 사업실적관리 > 패밀리넷 등록/수정
 - SEQ_TFAMILYNET_PROGRAM.NEXTVAL 시퀀스 DB에 존재하지 않음
 - 그전에는 되었었던듯
-
+>>>> 해결
 
 5------------
 기본사업> 사업관리 > 사업운영 > 반(모임)/프로그램 관리
@@ -45,6 +45,21 @@
 패밀리넷 TFAMILYNET_PROGRAM_DETAIL 테이블 PG_DETAIL_NO
 기본사업 BIZ_NO == 패밀리넷 FAMILYNET_PG_NO
 
-PG_DETAIL_NO, MEMBER_ID 최소 두개 필요한 테이블 필요
+PG_DETAIL_NO, MEMBER_ID, ATTENDYX, (SYS_GUBUN) 최소 필요한 테이블 컬럼 건강가정도 동일
+```
+
+```
+메모
+안녕하세요. 김민식입니다.
+
+기본사업 > 사업관리 . 실적관리 > 사업실적 관리 > 패밀리넷 등록 >프로그램 등록 팝업 등록 시 오류 (가족서비스,건가)
+SELECT SEQ_TFAMILYNET_PROGRAM.NEXTVAL FROM DUAL
+
+java.sql.SQLException: ORA-02289: 시퀀스가 존재하지 않습니다.
+
+감사합니다.
+
+
+
 ```
 
