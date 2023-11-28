@@ -49,17 +49,6 @@ PG_DETAIL_NO, MEMBER_ID, ATTENDYX, (SYS_GUBUN) 최소 필요한 테이블 컬럼
 ```
 
 ```
-메모
-안녕하세요. 김민식입니다.
-
-기본사업 > 사업관리 . 실적관리 > 사업실적 관리 > 패밀리넷 등록 >프로그램 등록 팝업 등록 시 오류 (가족서비스,건가)
-SELECT SEQ_TFAMILYNET_PROGRAM.NEXTVAL FROM DUAL
-
-java.sql.SQLException: ORA-02289: 시퀀스가 존재하지 않습니다.
-
-감사합니다.
-
-
 
 ```
 
