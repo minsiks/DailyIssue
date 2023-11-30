@@ -49,6 +49,6 @@ PG_DETAIL_NO, MEMBER_ID, ATTENDYX, (SYS_GUBUN) 최소 필요한 테이블 컬럼
 ```
 
 ```
-
+ 
 ```
 
