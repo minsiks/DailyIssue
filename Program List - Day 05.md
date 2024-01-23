@@ -12,3 +12,5 @@
 
 
 SP_ACHIEVEMENTRPT_PROCESS_A
+
+$("#inttrans_begin_datetime").datepicker("setDate" ,data.intrService.inttrans_begin_datetime.substring(0, 10));
