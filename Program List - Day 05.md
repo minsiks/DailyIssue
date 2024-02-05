@@ -10,3 +10,11 @@
 - add - 어쩌구 톰캣 설정 삭제
 
 $("#inttrans_begin_datetime").datepicker("setDate" ,data.intrService.inttrans_begin_datetime.substring(0, 10));
+
+
+
+일요일 출근 14:00
+
+일요일 퇴근 19:30
+
+월요일 출근 08:00
