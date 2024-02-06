@@ -11,10 +11,8 @@
 
 $("#inttrans_begin_datetime").datepicker("setDate" ,data.intrService.inttrans_begin_datetime.substring(0, 10));
 
+businessStatusService.weakemergencyfamilyserviceplan14List(vo)
+사용하는 곳 1개
 
+businessStatusDAO.WeakCourtConnectEmergencyFamilyList(vo)
 
-일요일 출근 14:00
-
-일요일 퇴근 19:30
-
-월요일 출근 08:00
