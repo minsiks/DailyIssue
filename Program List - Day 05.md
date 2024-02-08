@@ -16,3 +16,12 @@ businessStatusService.weakemergencyfamilyserviceplan14List(vo)
 
 businessStatusDAO.WeakCourtConnectEmergencyFamilyList(vo)
 
+
+
+알아야될것!![2024-02-07 10 24 14](C:\Users\min\Documents\DailyIssue\assets\2024-02-07 10 24 14.png)
+
+``` 
+1.  온가족보듬 > 초기상담 단순/외부는 저장 시 가족내용 저장 안함
+```
+
+프로시저 수정?
