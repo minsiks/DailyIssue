@@ -22,4 +22,3 @@ businessStatusDAO.WeakCourtConnectEmergencyFamilyList(vo)
 1.  온가족보듬 > 초기상담 단순/외부는 저장 시 가족내용 저장 안함
 ```
 
-프로시저 수정?
