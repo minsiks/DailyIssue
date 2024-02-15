@@ -11,14 +11,4 @@
 
 $("#inttrans_begin_datetime").datepicker("setDate" ,data.intrService.inttrans_begin_datetime.substring(0, 10));
 
-businessStatusService.weakemergencyfamilyserviceplan14List(vo)
-사용하는 곳 1개
-
-businessStatusDAO.WeakCourtConnectEmergencyFamilyList(vo)
-
-
-
-``` 
-1.  온가족보듬 > 초기상담 단순/외부는 저장 시 가족내용 저장 안함
-```
-
+### 
