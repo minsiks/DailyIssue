@@ -11,7 +11,5 @@
 
 $("#inttrans_begin_datetime").datepicker("setDate" ,data.intrService.inttrans_begin_datetime.substring(0, 10));
 
-data.McultProgramManageVO.expect_person_cnt
-
 
 
