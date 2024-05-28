@@ -74,3 +74,6 @@ public static boolean checkOperator2(Map<String, Object> operatorMap) {
 	}
 ```
 
+### 
+
+cnetral 작업자 30초마다 받고 
