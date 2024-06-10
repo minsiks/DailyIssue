@@ -14,3 +14,4 @@
 
 - updateOperatorInspection 쿼리
 
+s
