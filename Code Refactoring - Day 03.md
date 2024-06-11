@@ -13,3 +13,5 @@
 ### 2. edge ui 판정결과 변경시 last_upd_dtm 변경 X
 
 - updateOperatorInspection 쿼리
+
+sdf
