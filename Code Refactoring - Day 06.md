@@ -12,4 +12,3 @@
 >
 > - ai전송시 쿼리 중 RGSTR_ID 를 어떻게 설정 `operator는 opertrEmpNum을 입력
 >
-> 2. 
