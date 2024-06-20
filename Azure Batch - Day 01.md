@@ -1,11 +1,8 @@
-# 23-8-9 Azure Batch Day01
+# 24-6-20 AWS Day01
 
-## 애져 배치
+## AWS
 
-### JAR WAR 차이점
+덤프 문제 모여있는곳
 
-```
+https://blog.naver.com/imaokiro/222919408684
 
-```
-
-?
