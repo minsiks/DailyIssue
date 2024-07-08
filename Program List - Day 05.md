@@ -19,4 +19,5 @@
 - Edge UI에서 업데이트를 치면 -> edgeIF 정보 조회 없음 (but CentralIf정보 있음/ 동기화 전)
   - edgeIF 에서 미리 error?
   - central로 전송?
-- 
+  
+  
